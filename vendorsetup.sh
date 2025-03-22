@@ -8,3 +8,5 @@
 add_lunch_combo twrp_r1-user
 add_lunch_combo twrp_r1-userdebug
 add_lunch_combo twrp_r1-eng
+
+cp -r device/rabbit/r1/prebuilt/dtb.img out/target/product/r1/dtb.img
